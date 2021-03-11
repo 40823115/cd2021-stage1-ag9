@@ -1,2 +1,2 @@
 # cmstemplate
-https://40823115.github.io/cd2021-stage1-ag9/.
+https://40823115.github.io/stage1-ag9/.
