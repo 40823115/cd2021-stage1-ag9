@@ -30,9 +30,9 @@
 </v>
 <v t="leo.20210318005012.1"><vh>slide 3</vh></v>
 <v t="leo.20210318005140.1"><vh>slide 4</vh>
-<v t="leo.20210318013922.1"><vh>newHeadline</vh></v>
-<v t="leo.20210318013928.1"><vh>newHeadline</vh></v>
-<v t="leo.20210318013929.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318013922.1"><vh>slide 4-1</vh></v>
+<v t="leo.20210318013928.1"><vh>slide 4-2</vh></v>
+<v t="leo.20210318013929.1"><vh>slide 4-3</vh></v>
 </v>
 </v>
 </v>
@@ -207,7 +207,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210318004545.1"> &lt;section&gt;
     &lt;h2&gt;使用solidworks繪圖&lt;/h2&gt;
-    &lt;p&gt;&lt;span&gt;&lt;img alt="" height="168" src="/images/本體擷取.png" width="365"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823115/stage1-ag9/main/images/%E4%B8%8B%E6%93%BA%E6%93%B7%E5%8F%96.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
     
     
    
@@ -215,14 +215,13 @@ vertical: body pane on the botton</t>
     
 &lt;/section&gt;</t>
 <t tx="leo.20210318004750.1"> &lt;section&gt;
- &lt;p&gt;&lt;span&gt;&lt;img alt="" height="165" src="/images/袖子擷取.png" width="365"&gt;&lt;/span&gt;&lt;/p&gt;
- 
+ &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823115/stage1-ag9/main/images/%E6%9C%AC%E9%AB%94%E6%93%B7%E5%8F%96.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
  &lt;/section&gt;</t>
 <t tx="leo.20210318004751.1">&lt;section&gt;
-&lt;p&gt;&lt;span&gt;&lt;img alt="" height="168" src="/images/下擺擷取.png" width="365"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823115/stage1-ag9/main/images/%E7%B5%84%E5%90%88%E6%93%B7%E5%8F%96.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318004751.2">&lt;section&gt;
-&lt;p&gt;&lt;span&gt;&lt;img alt="" height="185" src="/images/組合擷取.png" width="365"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823115/stage1-ag9/main/images/%E8%A2%96%E5%AD%90%E6%93%B7%E5%8F%96.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318005012.1">&lt;section&gt;
     &lt;h1&gt;w3&lt;/h1&gt;
@@ -259,18 +258,21 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210318013922.1">&lt;section&gt;
     &lt;h1&gt;第一次&lt;/h1&gt;
     &lt;p&gt;發現最下面的軸沒設定好&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/k6rus1usdmU"&gt;&lt;/iframe&gt;&lt;/p&gt;
     
     
 &lt;/section&gt;</t>
 <t tx="leo.20210318013928.1">&lt;section&gt;
     &lt;h1&gt;第二次&lt;/h1&gt;
     &lt;p&gt;左右兩側的板會卡住&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/5dCf8x_k3mo"&gt;&lt;/iframe&gt;&lt;/p&gt;
     
     
 &lt;/section&gt;</t>
 <t tx="leo.20210318013929.1">&lt;section&gt;
     &lt;h1&gt;第三次&lt;/h1&gt;
     &lt;p&gt;無法往復作動&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/1gigZiSRgu8"&gt;&lt;/iframe&gt;&lt;/p&gt;
     
     
 &lt;/section&gt;</t>
