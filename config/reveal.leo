@@ -21,10 +21,11 @@
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20210318002336.1"><vh>slide 2</vh>
 <v t="leo.20210318002435.1"><vh>slide 2-1</vh></v>
-<v t="leo.20210318004545.1"><vh>slide2-2</vh></v>
-<v t="leo.20210318004750.1"><vh>slide2-3</vh></v>
-<v t="leo.20210318004751.1"><vh>slide2-4</vh></v>
-<v t="leo.20210318004751.2"><vh>slide2-5</vh></v>
+<v t="leo.20210318010927.1"><vh>slide 2-2</vh></v>
+<v t="leo.20210318004545.1"><vh>slide2-3</vh></v>
+<v t="leo.20210318004750.1"><vh>slide2-4</vh></v>
+<v t="leo.20210318004751.1"><vh>slide2-5</vh></v>
+<v t="leo.20210318004751.2"><vh>slide2-6</vh></v>
 </v>
 <v t="leo.20210318005012.1"><vh>slide 3</vh></v>
 <v t="leo.20210318005140.1"><vh>slide 4</vh></v>
@@ -199,8 +200,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210318002435.1">&lt;section&gt;
     &lt;h2&gt;我們這組經過民主的討論，決定製作簡易自動摺衣板&lt;/h2&gt;
     &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/vB0G4zdbkXg"&gt;&lt;/iframe&gt;&lt;/p&gt;
-    &lt;p&gt;構圖&lt;/p&gt;
-    &lt;p&gt;&lt;span&gt;&lt;img alt="" height="486" src="/images/66307.jpg" width="365"&gt;&lt;/span&gt;&lt;/p&gt;
+   
    
     
     
@@ -233,5 +233,12 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20210318005140.1"></t>
+<t tx="leo.20210318010927.1">&lt;section&gt;
+    &lt;h2&gt;構圖&lt;/h2&gt;
+    &lt;p&gt;&lt;span&gt;https://raw.githubusercontent.com/40823115/stage1-ag9/main/images/66307.jpg&lt;/span&gt;&lt;/p&gt;
+   
+    
+    
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
