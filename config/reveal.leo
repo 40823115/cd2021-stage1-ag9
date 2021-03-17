@@ -177,14 +177,7 @@ vertical: body pane on the botton</t>
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
     &lt;h1&gt;cd2021-stage1-ag9&lt;/h1&gt;
-    &lt;p&gt;成員:&lt;/p&gt;
-   &lt;p&gt; 40823115黃歸吉&lt;/p&gt;
-  &lt;p&gt;&lt;br&gt;倉儲:&lt;a href="https://github.com/40823115/cd2021"&gt;https://github.com/40823115/cd2021&lt;/a&gt; &lt;br&gt;
-   &lt;p&gt;網頁:&lt;a href="https://40823115.github.io/cd2021/content/index.html"&gt;https://40823115.github.io/cd2021/content/index.html&lt;/a&gt;&lt;&lt;/p&gt;
-   
-    &lt;p&gt;40823140林子恩&lt;/p&gt;
-    &lt;p&gt;&lt;br&gt;倉儲:&lt;a href="https://github.com/40823140/cd2021"&gt;https://github.com/40823140/cd2021&lt;/a&gt; &lt;br&gt;
-    &lt;p&gt;網頁:&lt;a href="https://40823140.github.io/cd2021/content/index.html"&gt;https://40823140.github.io/cd2021/content/index.html&lt;/a&gt;&lt;/p&gt;
+ 
 
 
 
