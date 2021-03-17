@@ -184,7 +184,8 @@ vertical: body pane on the botton</t>
     &lt;p&gt;倉儲:https://github.com/40823140/cd2021&lt;p&gt;
     &lt;p&gt;網頁:https://40823140.github.io/cd2021/content/index.html
 
-&lt;/p&gt;I
+&lt;/p&gt;
+
 &lt;/section&gt;
 
 </t>
@@ -214,9 +215,16 @@ vertical: body pane on the botton</t>
     
     
 &lt;/section&gt;</t>
-<t tx="leo.20210318004750.1">&lt;p&gt;&lt;span&gt;&lt;img alt="" height="165" src="/images/袖子擷取.png" width="365"&gt;&lt;/span&gt;&lt;/p&gt;</t>
-<t tx="leo.20210318004751.1">&lt;p&gt;&lt;span&gt;&lt;img alt="" height="168" src="/images/下擺擷取.png" width="365"&gt;&lt;/span&gt;&lt;/p&gt;</t>
-<t tx="leo.20210318004751.2">&lt;p&gt;&lt;span&gt;&lt;img alt="" height="185" src="/images/組合擷取.png" width="365"&gt;&lt;/span&gt;&lt;/p&gt;</t>
+<t tx="leo.20210318004750.1"> &lt;section&gt;
+ &lt;p&gt;&lt;span&gt;&lt;img alt="" height="165" src="/images/袖子擷取.png" width="365"&gt;&lt;/span&gt;&lt;/p&gt;
+ 
+ &lt;/section&gt;</t>
+<t tx="leo.20210318004751.1">&lt;section&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="168" src="/images/下擺擷取.png" width="365"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318004751.2">&lt;section&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="185" src="/images/組合擷取.png" width="365"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20210318005012.1">&lt;section&gt;
     &lt;h1&gt;w3&lt;/h1&gt;
     &lt;p&gt;經過組合後模擬，將機構再調整至最佳狀態&lt;/p&gt;
