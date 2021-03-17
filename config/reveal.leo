@@ -20,6 +20,7 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20210318012856.1"><vh>slide1-2</vh></v>
+<v t="leo.20210318015148.1"><vh>slide1-3</vh></v>
 <v t="leo.20210318002336.1"><vh>slide 2</vh>
 <v t="leo.20210318002435.1"><vh>slide 2-1</vh></v>
 <v t="leo.20210318010927.1"><vh>slide 2-2</vh></v>
@@ -247,9 +248,7 @@ vertical: body pane on the botton</t>
    &lt;p&gt; 40823115黃歸吉&lt;/p&gt;
   &lt;p&gt;&lt;br&gt;倉儲:&lt;a href="https://github.com/40823115/cd2021"&gt;https://github.com/40823115/cd2021&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
   &lt;p&gt;網頁:&lt;a href="https://40823115.github.io/cd2021/content/index.html"&gt;https://40823115.github.io/cd2021/content/index.html&lt;/a&gt;&lt;&lt;/p&gt;
-    &lt;p&gt;40823140林子恩&lt;/p&gt;
-    &lt;p&gt;&lt;br&gt;倉儲:&lt;a href="https://github.com/40823140/cd2021"&gt;https://github.com/40823140/cd2021&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
-    &lt;p&gt;網頁:&lt;a href="https://40823140.github.io/cd2021/content/index.html"&gt;https://40823140.github.io/cd2021/content/index.html&lt;/a&gt;&lt;/p&gt;
+   
 
 
 
@@ -276,5 +275,17 @@ vertical: body pane on the botton</t>
     
     
 &lt;/section&gt;</t>
+<t tx="leo.20210318015148.1">    &lt;section&gt;
+    &lt;h1&gt;成員:&lt;/h1&gt;
+    &lt;p&gt; 40823140林子恩&lt;/p&gt;
+    &lt;p&gt;&lt;br&gt;倉儲:&lt;a href="https://github.com/40823140/cd2021"&gt;https://github.com/40823140/cd2021&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+    &lt;p&gt;網頁:&lt;a href="https://40823140.github.io/cd2021/content/index.html"&gt;https://40823140.github.io/cd2021/content/index.html&lt;/a&gt;&lt;/p&gt;
+ 
+
+
+
+
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
