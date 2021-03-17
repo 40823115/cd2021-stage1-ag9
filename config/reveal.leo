@@ -235,8 +235,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210318005140.1"></t>
 <t tx="leo.20210318010927.1">&lt;section&gt;
     &lt;h2&gt;構圖&lt;/h2&gt;
-    &lt;p&gt;&lt;span&gt;https://raw.githubusercontent.com/40823115/stage1-ag9/main/images/66307.jpg&lt;/span&gt;&lt;/p&gt;
-   
+   &lt;p&gt;&lt;img src="https://github.com/40823115/stage1-ag9/blob/main/images/66307.jpg" alt="" width="600" height="390"&gt;&lt;/p&gt;
     
     
 &lt;/section&gt;</t>
