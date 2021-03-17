@@ -34,6 +34,7 @@
 <v t="leo.20210318013922.1"><vh>slide 4-1</vh></v>
 <v t="leo.20210318013928.1"><vh>slide 4-2</vh></v>
 <v t="leo.20210318013929.1"><vh>slide 4-3</vh></v>
+<v t="leo.20210318015510.1"><vh>slide4-4</vh></v>
 </v>
 </v>
 </v>
@@ -287,5 +288,11 @@ vertical: body pane on the botton</t>
 
 &lt;/section&gt;
 </t>
+<t tx="leo.20210318015510.1">&lt;section&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;p&gt;這一次真的花了我們好大的工夫才完成大一，二上都是靠同學完成功課，這一次我們這一組都不會讓我們可以從頭開始學習，雖然最後無法真的完成，但我盡最大的努力去做，所以我很高興。&lt;/p&gt;
+    
+    
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
